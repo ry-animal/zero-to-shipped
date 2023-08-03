@@ -1,8 +1,8 @@
-import { useParam } from "@blitzjs/next";
+import { useStringParam } from "@/utils/utils";
 import React from "react";
 
 const Slugs = () => {
-  const slug = useParam("slug", "string");
+  const slug = useStringParam("slug");
   return <div>{slug}</div>;
 };
 
