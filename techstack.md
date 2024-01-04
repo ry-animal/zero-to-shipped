@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ry-animal/zero-to-shipped is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -15,11 +16,13 @@ ry-animal/zero-to-shipped is built on the following main stack:
 - [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ry-animal/zero-to-shipped is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -33,14 +36,15 @@ ry-animal/zero-to-shipped is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ry-animal/zero-to-shipped](https://github.com/ry-animal/zero-to-shipped)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|11/09/23 <br/>Report generated|
+|28<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -206,9 +210,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (11)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -219,10 +223,12 @@ Full tech stack [here](/techstack.md)
 |[@types/react](https://www.npmjs.com/@types/react)|v18.0.25|08/03/23|Ryan Van Valkenburg |MIT|N/A|
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.42.1|08/03/23|Ryan Van Valkenburg |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.5.0|08/03/23|Ryan Van Valkenburg |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.2|08/03/23|Ryan Van Valkenburg |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|08/03/23|Ryan Van Valkenburg |MIT|N/A|
 |[pretty-quick](https://www.npmjs.com/pretty-quick)|v3.1.3|08/03/23|Ryan Van Valkenburg |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|08/03/23|Ryan Van Valkenburg |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
